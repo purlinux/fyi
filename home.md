@@ -1,7 +1,7 @@
 [home](doc:home) [install](doc:install) [github](https://github.com/purlinux)
 # pur linux: a simple Linux distro
 
-Pur Linux is a distribution for the x86_64 architecture, focusing on minimalism, extensibility and being unopinionated. The project was founded and created by Daphne Zondervan. 
+Pur Linux is a distribution for the x86_64 architecture, focusing on minimalism, extensibility and being unopinionated. The project was founded and created by Patrick Zondervan. 
 
 The distribution is built to be able to run stably on systems, expecting the end-user to maintain the system properly. Pur has no external infrastructure and is fully decentrialized, expecting the end-user to create their own packages if required.
 
